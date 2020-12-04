@@ -20,6 +20,8 @@ approaches, including face landmark detection for expression embedding, random f
 SVM classifiers, as well as convolutional neural networks. Run predominantly in
 Google Colab.
 
+**Models** -- Trained convolutional models
+
 **Data** -- the original FER2013 dataset, as downloaded from Kaggle, in ZIP form. 
 
 **Images** -- imgaes to be used in publications
