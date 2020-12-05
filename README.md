@@ -9,6 +9,8 @@ Ultimately, it is about the possibility of an AI to attain something akin to the
 of mind: the ability to recognize an other as a conscious agent with intentions and
 feelings as well as external behaviors, which motivate those behaviors.
 
+https://karenfisher-88874.medium.com/can-ai-read-emotional-expression-1a64cac15084
+
 
 ## Files
 
